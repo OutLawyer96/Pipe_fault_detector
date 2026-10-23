@@ -1,0 +1,100 @@
+accuracy,balanced_accuracy,precision,recall,f1,roc_auc,pr_auc,false_alarm_rate_nl,seed,fold,variant,edge,level,condition,value
+0.4,0.5,0.0,0.0,0.0,0.6666666666666666,0.8055555555555556,0.0,42,0,per_recording,False,signal_condition,network,BR
+0.6666666666666666,0.6666666666666666,1.0,0.6666666666666666,0.8,,1.0,,42,0,per_recording,False,signal_condition,network,LO
+0.3333333333333333,0.5,0.0,0.0,0.0,1.0,1.0,0.0,42,0,per_recording,False,signal_condition,flow,0.18 LPS
+0.0,0.0,0.0,0.0,0.0,,1.0,,42,0,per_recording,False,signal_condition,flow,0.47 LPS
+1.0,1.0,1.0,1.0,1.0,,1.0,,42,0,per_recording,False,signal_condition,flow,ND
+0.6666666666666666,0.75,1.0,0.5,0.6666666666666666,1.0,1.0,0.0,42,0,per_recording,False,signal_condition,flow,Transient
+0.5,0.6666666666666666,1.0,0.3333333333333333,0.5,0.6666666666666667,0.8972222222222223,0.0,42,0,per_recording,False,signal_condition,noise,N
+0.75,0.8333333333333333,1.0,0.6666666666666666,0.8,1.0,1.0,0.0,42,1,per_recording,False,signal_condition,network,BR
+0.5,0.3333333333333333,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.6666666666666666,0.9166666666666665,1.0,42,1,per_recording,False,signal_condition,network,LO
+1.0,1.0,1.0,1.0,1.0,,1.0,,42,1,per_recording,False,signal_condition,flow,0.18 LPS
+0.6666666666666666,0.75,1.0,0.5,0.6666666666666666,1.0,1.0,0.0,42,1,per_recording,False,signal_condition,flow,0.47 LPS
+0.5,0.5,0.5,1.0,0.6666666666666666,1.0,1.0,1.0,42,1,per_recording,False,signal_condition,flow,ND
+0.5,0.5,1.0,0.5,0.6666666666666666,,1.0,,42,1,per_recording,False,signal_condition,flow,Transient
+0.625,0.5833333333333333,0.8,0.6666666666666666,0.7272727272727273,0.75,0.9305555555555556,0.5,42,1,per_recording,False,signal_condition,noise,N
+0.4,0.4,1.0,0.4,0.5714285714285714,,1.0,,42,2,per_recording,False,signal_condition,network,BR
+1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,42,2,per_recording,False,signal_condition,network,LO
+1.0,1.0,1.0,1.0,1.0,,1.0,,42,2,per_recording,False,signal_condition,flow,0.18 LPS
+0.4,0.625,1.0,0.25,0.4,0.5,0.8875,0.0,42,2,per_recording,False,signal_condition,flow,0.47 LPS
+1.0,1.0,1.0,1.0,1.0,,1.0,,42,2,per_recording,False,signal_condition,flow,Transient
+0.625,0.7857142857142857,1.0,0.5714285714285714,0.7272727272727273,0.7142857142857143,0.9617346938775511,0.0,42,2,per_recording,False,signal_condition,noise,N
+1.0,1.0,1.0,1.0,1.0,,1.0,,42,3,per_recording,False,signal_condition,network,BR
+0.8333333333333334,0.75,0.8,1.0,0.8888888888888888,1.0,1.0,0.5,42,3,per_recording,False,signal_condition,network,LO
+0.5,0.5,0.5,1.0,0.6666666666666666,1.0,1.0,1.0,42,3,per_recording,False,signal_condition,flow,0.18 LPS
+1.0,1.0,1.0,1.0,1.0,,1.0,,42,3,per_recording,False,signal_condition,flow,0.47 LPS
+1.0,1.0,1.0,1.0,1.0,,1.0,,42,3,per_recording,False,signal_condition,flow,ND
+1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,42,3,per_recording,False,signal_condition,flow,Transient
+0.875,0.75,0.8571428571428571,1.0,0.9230769230769231,0.9166666666666667,0.9761904761904762,0.5,42,3,per_recording,False,signal_condition,noise,N
+0.75,0.5,0.75,1.0,0.8571428571428571,0.6666666666666666,0.9166666666666665,1.0,42,4,per_recording,False,signal_condition,network,BR
+0.75,0.75,1.0,0.75,0.8571428571428571,,1.0,,42,4,per_recording,False,signal_condition,network,LO
+1.0,1.0,1.0,1.0,1.0,,1.0,,42,4,per_recording,False,signal_condition,flow,0.18 LPS
+0.6,0.375,0.75,0.75,0.75,0.75,0.95,1.0,42,4,per_recording,False,signal_condition,flow,ND
+1.0,1.0,1.0,1.0,1.0,,1.0,,42,4,per_recording,False,signal_condition,flow,Transient
+0.75,0.42857142857142855,0.8571428571428571,0.8571428571428571,0.8571428571428571,0.7142857142857143,0.9617346938775511,1.0,42,4,per_recording,False,signal_condition,noise,N
+0.6,0.6666666666666666,1.0,0.3333333333333333,0.5,1.0,1.0,0.0,1337,0,per_recording,False,signal_condition,network,BR
+0.3333333333333333,0.3333333333333333,1.0,0.3333333333333333,0.5,,1.0,,1337,0,per_recording,False,signal_condition,network,LO
+0.6666666666666666,0.75,1.0,0.5,0.6666666666666666,1.0,1.0,0.0,1337,0,per_recording,False,signal_condition,flow,0.18 LPS
+0.3333333333333333,0.5,0.0,0.0,0.0,0.5,0.8333333333333333,0.0,1337,0,per_recording,False,signal_condition,flow,0.47 LPS
+0.0,0.0,0.0,0.0,0.0,,1.0,,1337,0,per_recording,False,signal_condition,flow,ND
+1.0,1.0,1.0,1.0,1.0,,1.0,,1337,0,per_recording,False,signal_condition,flow,Transient
+0.5,0.6666666666666666,1.0,0.3333333333333333,0.5,0.6666666666666666,0.9107142857142857,0.0,1337,0,per_recording,False,signal_condition,noise,N
+0.3333333333333333,0.3333333333333333,1.0,0.3333333333333333,0.5,,1.0,,1337,1,per_recording,False,signal_condition,network,BR
+0.5,0.5,0.5,1.0,0.6666666666666666,1.0,1.0,1.0,1337,1,per_recording,False,signal_condition,network,LO
+0.0,0.0,0.0,0.0,0.0,,1.0,,1337,1,per_recording,False,signal_condition,flow,0.18 LPS
+0.5,0.5,1.0,0.5,0.6666666666666666,,1.0,,1337,1,per_recording,False,signal_condition,flow,0.47 LPS
+0.5,0.5,0.5,1.0,0.6666666666666666,1.0,1.0,1.0,1337,1,per_recording,False,signal_condition,flow,ND
+0.3333333333333333,0.3333333333333333,1.0,0.3333333333333333,0.5,,1.0,,1337,1,per_recording,False,signal_condition,flow,Transient
+0.375,0.21428571428571427,0.75,0.42857142857142855,0.5454545454545454,0.2857142857142857,0.8736394557823131,1.0,1337,1,per_recording,False,signal_condition,noise,N
+0.5,0.5,0.5,1.0,0.6666666666666666,1.0,1.0,1.0,1337,2,per_recording,False,signal_condition,network,BR
+0.25,0.5,0.25,1.0,0.4,1.0,1.0,1.0,1337,2,per_recording,False,signal_condition,network,LO
+0.0,0.0,0.0,0.0,0.0,,,1.0,1337,2,per_recording,False,signal_condition,flow,0.18 LPS
+0.5,0.5,0.5,1.0,0.6666666666666666,1.0,1.0,1.0,1337,2,per_recording,False,signal_condition,flow,0.47 LPS
+0.5,0.5,0.5,1.0,0.6666666666666666,1.0,1.0,1.0,1337,2,per_recording,False,signal_condition,flow,ND
+0.3333333333333333,0.5,0.3333333333333333,1.0,0.5,1.0,1.0,1.0,1337,2,per_recording,False,signal_condition,flow,Transient
+0.375,0.5,0.375,1.0,0.5454545454545454,1.0,1.0,1.0,1337,2,per_recording,False,signal_condition,noise,N
+0.5,0.5,1.0,0.5,0.6666666666666666,,1.0,,1337,3,per_recording,False,signal_condition,network,BR
+0.6666666666666666,0.6666666666666666,1.0,0.6666666666666666,0.8,,1.0,,1337,3,per_recording,False,signal_condition,network,LO
+0.5,0.5,1.0,0.5,0.6666666666666666,,1.0,,1337,3,per_recording,False,signal_condition,flow,0.18 LPS
+1.0,1.0,1.0,1.0,1.0,,1.0,,1337,3,per_recording,False,signal_condition,flow,0.47 LPS
+0.6666666666666666,0.6666666666666666,1.0,0.6666666666666666,0.8,,1.0,,1337,3,per_recording,False,signal_condition,flow,ND
+0.5,0.5,1.0,0.5,0.6666666666666666,,1.0,,1337,3,per_recording,False,signal_condition,flow,Transient
+0.625,0.625,1.0,0.625,0.7692307692307693,,1.0,,1337,3,per_recording,False,signal_condition,noise,N
+0.3333333333333333,0.3333333333333333,1.0,0.3333333333333333,0.5,,1.0,,1337,4,per_recording,False,signal_condition,network,BR
+1.0,1.0,1.0,1.0,1.0,,1.0,,1337,4,per_recording,False,signal_condition,network,LO
+1.0,1.0,1.0,1.0,1.0,,1.0,,1337,4,per_recording,False,signal_condition,flow,0.18 LPS
+0.5,0.5,1.0,0.5,0.6666666666666666,,1.0,,1337,4,per_recording,False,signal_condition,flow,0.47 LPS
+0.5,0.5,1.0,0.5,0.6666666666666666,,1.0,,1337,4,per_recording,False,signal_condition,flow,ND
+1.0,1.0,1.0,1.0,1.0,,1.0,,1337,4,per_recording,False,signal_condition,flow,Transient
+0.75,0.75,1.0,0.75,0.8571428571428571,,1.0,,1337,4,per_recording,False,signal_condition,noise,N
+0.4,0.625,1.0,0.25,0.4,0.75,0.95,0.0,2027,0,per_recording,False,signal_condition,network,BR
+0.3333333333333333,0.3333333333333333,1.0,0.3333333333333333,0.5,,1.0,,2027,0,per_recording,False,signal_condition,network,LO
+0.5,0.5,1.0,0.5,0.6666666666666666,,1.0,,2027,0,per_recording,False,signal_condition,flow,0.47 LPS
+0.3333333333333333,0.3333333333333333,1.0,0.3333333333333333,0.5,,1.0,,2027,0,per_recording,False,signal_condition,flow,ND
+0.3333333333333333,0.5,0.0,0.0,0.0,0.5,0.8333333333333333,0.0,2027,0,per_recording,False,signal_condition,flow,Transient
+0.375,0.6428571428571428,1.0,0.2857142857142857,0.4444444444444444,0.7142857142857143,0.9617346938775511,0.0,2027,0,per_recording,False,signal_condition,noise,N
+0.75,0.8333333333333333,1.0,0.6666666666666666,0.8,1.0,1.0,0.0,2027,1,per_recording,False,signal_condition,network,BR
+1.0,1.0,1.0,1.0,1.0,,1.0,,2027,1,per_recording,False,signal_condition,network,LO
+0.75,0.8333333333333333,1.0,0.6666666666666666,0.8,1.0,1.0,0.0,2027,1,per_recording,False,signal_condition,flow,0.18 LPS
+1.0,1.0,1.0,1.0,1.0,,1.0,,2027,1,per_recording,False,signal_condition,flow,ND
+1.0,1.0,1.0,1.0,1.0,,1.0,,2027,1,per_recording,False,signal_condition,flow,Transient
+0.875,0.9285714285714286,1.0,0.8571428571428571,0.9230769230769231,1.0,1.0,0.0,2027,1,per_recording,False,signal_condition,noise,N
+0.25,0.16666666666666666,0.5,0.3333333333333333,0.4,0.0,0.6388888888888888,1.0,2027,2,per_recording,False,signal_condition,network,BR
+1.0,1.0,1.0,1.0,1.0,,1.0,,2027,2,per_recording,False,signal_condition,network,LO
+0.6666666666666666,0.6666666666666666,1.0,0.6666666666666666,0.8,,1.0,,2027,2,per_recording,False,signal_condition,flow,0.18 LPS
+1.0,1.0,1.0,1.0,1.0,,1.0,,2027,2,per_recording,False,signal_condition,flow,0.47 LPS
+0.5,0.5,0.5,1.0,0.6666666666666666,1.0,1.0,1.0,2027,2,per_recording,False,signal_condition,flow,ND
+0.0,0.0,0.0,0.0,0.0,,1.0,,2027,2,per_recording,False,signal_condition,flow,Transient
+0.625,0.35714285714285715,0.8333333333333334,0.7142857142857143,0.7692307692307693,0.5714285714285714,0.9379251700680272,1.0,2027,2,per_recording,False,signal_condition,noise,N
+0.2,0.5,0.0,0.0,0.0,0.25,0.8041666666666667,0.0,2027,3,per_recording,False,signal_condition,network,BR
+0.6666666666666666,0.6666666666666666,0.0,0.0,0.0,,,0.3333333333333333,2027,3,per_recording,False,signal_condition,network,LO
+0.6666666666666666,0.5,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,2027,3,per_recording,False,signal_condition,flow,0.47 LPS
+0.0,0.0,0.0,0.0,0.0,0.0,0.5833333333333333,1.0,2027,3,per_recording,False,signal_condition,flow,ND
+0.5,0.5,0.0,0.0,0.0,1.0,1.0,0.0,2027,3,per_recording,False,signal_condition,flow,Transient
+0.375,0.375,0.0,0.0,0.0,0.25,0.4571428571428572,0.25,2027,3,per_recording,False,signal_condition,noise,N
+0.5,0.5,1.0,0.5,0.6666666666666666,,1.0,,2027,4,per_recording,False,signal_condition,network,BR
+0.8333333333333334,0.9,1.0,0.8,0.8888888888888888,0.8,0.9666666666666666,0.0,2027,4,per_recording,False,signal_condition,network,LO
+1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.0,2027,4,per_recording,False,signal_condition,flow,0.18 LPS
+0.3333333333333333,0.3333333333333333,1.0,0.3333333333333333,0.5,,1.0,,2027,4,per_recording,False,signal_condition,flow,0.47 LPS
+1.0,1.0,1.0,1.0,1.0,,1.0,,2027,4,per_recording,False,signal_condition,flow,Transient
+0.75,0.8571428571428572,1.0,0.7142857142857143,0.8333333333333334,0.7142857142857143,0.9617346938775511,0.0,2027,4,per_recording,False,signal_condition,noise,N

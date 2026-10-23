@@ -1,0 +1,121 @@
+signal_id,score,leak,network,flow,noise,seed,fold,variant,edge
+BR_GL_0.18 LPS_N,0.7175704225352112,1,BR,0.18 LPS,N,42,0,per_recording,False
+BR_NL_0.18 LPS_N,0.6954513888888889,0,BR,0.18 LPS,N,42,0,per_recording,False
+BR_NL_Transient_N,0.7294718309859155,0,BR,Transient,N,42,0,per_recording,False
+BR_OL_0.18 LPS_N,0.7087412587412587,1,BR,0.18 LPS,N,42,0,per_recording,False
+BR_OL_Transient_N,0.7741554054054054,1,BR,Transient,N,42,0,per_recording,False
+LO_GL_ND_N,0.9805244755244755,1,LO,ND,N,42,0,per_recording,False
+LO_GL_Transient_N,0.9299645390070922,1,LO,Transient,N,42,0,per_recording,False
+LO_OL_0.47 LPS_N,0.615,1,LO,0.47 LPS,N,42,0,per_recording,False
+BR_GL_ND_N,0.803041958041958,1,BR,ND,N,42,1,per_recording,False
+BR_LC_0.18 LPS_N,0.8425555555555556,1,BR,0.18 LPS,N,42,1,per_recording,False
+BR_LC_0.47 LPS_N,0.7634375,1,BR,0.47 LPS,N,42,1,per_recording,False
+BR_NL_0.47 LPS_N,0.7123239436619718,0,BR,0.47 LPS,N,42,1,per_recording,False
+LO_GL_0.47 LPS_N,0.9813636363636364,1,LO,0.47 LPS,N,42,1,per_recording,False
+LO_LC_Transient_N,0.9458333333333333,1,LO,Transient,N,42,1,per_recording,False
+LO_NL_ND_N,0.8013829787234042,0,LO,ND,N,42,1,per_recording,False
+LO_OL_Transient_N,0.6727430555555556,1,LO,Transient,N,42,1,per_recording,False
+BR_CC_0.18 LPS_N,0.7930069930069931,1,BR,0.18 LPS,N,42,2,per_recording,False
+BR_CC_0.47 LPS_N,0.7448928571428571,1,BR,0.47 LPS,N,42,2,per_recording,False
+BR_GL_0.47 LPS_N,0.6201041666666667,1,BR,0.47 LPS,N,42,2,per_recording,False
+BR_LC_Transient_N,0.8067482517482517,1,BR,Transient,N,42,2,per_recording,False
+BR_OL_0.47 LPS_N,0.5868881118881119,1,BR,0.47 LPS,N,42,2,per_recording,False
+LO_GL_0.18 LPS_N,0.7941901408450704,1,LO,0.18 LPS,N,42,2,per_recording,False
+LO_LC_0.47 LPS_N,0.9733566433566433,1,LO,0.47 LPS,N,42,2,per_recording,False
+LO_NL_0.47 LPS_N,0.6381785714285714,0,LO,0.47 LPS,N,42,2,per_recording,False
+BR_CC_ND_N,0.7974305555555555,1,BR,ND,N,42,3,per_recording,False
+BR_CC_Transient_N,0.8277586206896552,1,BR,Transient,N,42,3,per_recording,False
+LO_CC_0.47 LPS_N,0.9749295774647887,1,LO,0.47 LPS,N,42,3,per_recording,False
+LO_CC_Transient_N,0.9541258741258741,1,LO,Transient,N,42,3,per_recording,False
+LO_LC_ND_N,0.9808802816901409,1,LO,ND,N,42,3,per_recording,False
+LO_NL_0.18 LPS_N,0.8137062937062937,0,LO,0.18 LPS,N,42,3,per_recording,False
+LO_NL_Transient_N,0.7200714285714286,0,LO,Transient,N,42,3,per_recording,False
+LO_OL_0.18 LPS_N,0.8424295774647887,1,LO,0.18 LPS,N,42,3,per_recording,False
+BR_GL_Transient_N,0.7767857142857143,1,BR,Transient,N,42,4,per_recording,False
+BR_LC_ND_N,0.924826388888889,1,BR,ND,N,42,4,per_recording,False
+BR_NL_ND_N,0.8342657342657342,0,BR,ND,N,42,4,per_recording,False
+BR_OL_ND_N,0.8344755244755244,1,BR,ND,N,42,4,per_recording,False
+LO_CC_0.18 LPS_N,0.9775694444444445,1,LO,0.18 LPS,N,42,4,per_recording,False
+LO_CC_ND_N,0.9779929577464789,1,LO,ND,N,42,4,per_recording,False
+LO_LC_0.18 LPS_N,0.9819930069930071,1,LO,0.18 LPS,N,42,4,per_recording,False
+LO_OL_ND_N,0.757027972027972,1,LO,ND,N,42,4,per_recording,False
+BR_CC_0.18 LPS_N,0.8438461538461539,1,BR,0.18 LPS,N,1337,0,per_recording,False
+BR_GL_0.47 LPS_N,0.7674652777777777,1,BR,0.47 LPS,N,1337,0,per_recording,False
+BR_NL_0.18 LPS_N,0.7461805555555556,0,BR,0.18 LPS,N,1337,0,per_recording,False
+BR_NL_0.47 LPS_N,0.7423943661971831,0,BR,0.47 LPS,N,1337,0,per_recording,False
+BR_OL_0.18 LPS_N,0.7605944055944056,1,BR,0.18 LPS,N,1337,0,per_recording,False
+LO_GL_Transient_N,0.907695035460993,1,LO,Transient,N,1337,0,per_recording,False
+LO_OL_0.47 LPS_N,0.6360563380281691,1,LO,0.47 LPS,N,1337,0,per_recording,False
+LO_OL_ND_N,0.7156643356643357,1,LO,ND,N,1337,0,per_recording,False
+BR_CC_Transient_N,0.7948620689655173,1,BR,Transient,N,1337,1,per_recording,False
+BR_GL_0.18 LPS_N,0.6751760563380281,1,BR,0.18 LPS,N,1337,1,per_recording,False
+BR_GL_Transient_N,0.7033571428571429,1,BR,Transient,N,1337,1,per_recording,False
+BR_LC_ND_N,0.9162847222222221,1,BR,ND,N,1337,1,per_recording,False
+BR_OL_0.47 LPS_N,0.5622377622377622,1,BR,0.47 LPS,N,1337,1,per_recording,False
+BR_OL_Transient_N,0.5743243243243243,1,BR,Transient,N,1337,1,per_recording,False
+LO_CC_0.47 LPS_N,0.9754577464788732,1,LO,0.47 LPS,N,1337,1,per_recording,False
+LO_NL_ND_N,0.8137588652482269,0,LO,ND,N,1337,1,per_recording,False
+BR_CC_ND_N,0.9689583333333334,1,BR,ND,N,1337,2,per_recording,False
+BR_LC_Transient_N,0.9509790209790211,1,BR,Transient,N,1337,2,per_recording,False
+BR_NL_ND_N,0.9083566433566435,0,BR,ND,N,1337,2,per_recording,False
+BR_NL_Transient_N,0.8849647887323944,0,BR,Transient,N,1337,2,per_recording,False
+LO_LC_0.47 LPS_N,0.991853146853147,1,LO,0.47 LPS,N,1337,2,per_recording,False
+LO_NL_0.18 LPS_N,0.8813636363636363,0,LO,0.18 LPS,N,1337,2,per_recording,False
+LO_NL_0.47 LPS_N,0.8024285714285715,0,LO,0.47 LPS,N,1337,2,per_recording,False
+LO_NL_Transient_N,0.9324642857142856,0,LO,Transient,N,1337,2,per_recording,False
+BR_CC_0.47 LPS_N,0.7595,1,BR,0.47 LPS,N,1337,3,per_recording,False
+BR_GL_ND_N,0.742062937062937,1,BR,ND,N,1337,3,per_recording,False
+LO_CC_ND_N,0.9739788732394367,1,LO,ND,N,1337,3,per_recording,False
+LO_GL_0.18 LPS_N,0.8256690140845071,1,LO,0.18 LPS,N,1337,3,per_recording,False
+LO_LC_ND_N,0.979718309859155,1,LO,ND,N,1337,3,per_recording,False
+LO_LC_Transient_N,0.9462333333333334,1,LO,Transient,N,1337,3,per_recording,False
+LO_OL_0.18 LPS_N,0.7085211267605633,1,LO,0.18 LPS,N,1337,3,per_recording,False
+LO_OL_Transient_N,0.5966666666666667,1,LO,Transient,N,1337,3,per_recording,False
+BR_LC_0.18 LPS_N,0.8106666666666666,1,BR,0.18 LPS,N,1337,4,per_recording,False
+BR_LC_0.47 LPS_N,0.7036111111111111,1,BR,0.47 LPS,N,1337,4,per_recording,False
+BR_OL_ND_N,0.7438811188811189,1,BR,ND,N,1337,4,per_recording,False
+LO_CC_0.18 LPS_N,0.9663888888888889,1,LO,0.18 LPS,N,1337,4,per_recording,False
+LO_CC_Transient_N,0.9473076923076923,1,LO,Transient,N,1337,4,per_recording,False
+LO_GL_0.47 LPS_N,0.9628671328671329,1,LO,0.47 LPS,N,1337,4,per_recording,False
+LO_GL_ND_N,0.9638811188811189,1,LO,ND,N,1337,4,per_recording,False
+LO_LC_0.18 LPS_N,0.9694755244755244,1,LO,0.18 LPS,N,1337,4,per_recording,False
+BR_CC_0.47 LPS_N,0.7834285714285715,1,BR,0.47 LPS,N,2027,0,per_recording,False
+BR_GL_0.47 LPS_N,0.622013888888889,1,BR,0.47 LPS,N,2027,0,per_recording,False
+BR_GL_ND_N,0.7186363636363636,1,BR,ND,N,2027,0,per_recording,False
+BR_NL_Transient_N,0.6368661971830986,0,BR,Transient,N,2027,0,per_recording,False
+BR_OL_Transient_N,0.6544932432432432,1,BR,Transient,N,2027,0,per_recording,False
+LO_LC_ND_N,0.9829225352112675,1,LO,ND,N,2027,0,per_recording,False
+LO_OL_ND_N,0.728041958041958,1,LO,ND,N,2027,0,per_recording,False
+LO_OL_Transient_N,0.6243402777777778,1,LO,Transient,N,2027,0,per_recording,False
+BR_LC_0.18 LPS_N,0.8298888888888889,1,BR,0.18 LPS,N,2027,1,per_recording,False
+BR_LC_ND_N,0.8944444444444445,1,BR,ND,N,2027,1,per_recording,False
+BR_NL_0.18 LPS_N,0.7244097222222222,0,BR,0.18 LPS,N,2027,1,per_recording,False
+BR_OL_0.18 LPS_N,0.7475874125874126,1,BR,0.18 LPS,N,2027,1,per_recording,False
+LO_CC_ND_N,0.9707394366197183,1,LO,ND,N,2027,1,per_recording,False
+LO_CC_Transient_N,0.8988111888111888,1,LO,Transient,N,2027,1,per_recording,False
+LO_LC_0.18 LPS_N,0.9727972027972027,1,LO,0.18 LPS,N,2027,1,per_recording,False
+LO_LC_Transient_N,0.9001333333333335,1,LO,Transient,N,2027,1,per_recording,False
+BR_CC_0.18 LPS_N,0.808986013986014,1,BR,0.18 LPS,N,2027,2,per_recording,False
+BR_GL_0.18 LPS_N,0.6980281690140845,1,BR,0.18 LPS,N,2027,2,per_recording,False
+BR_GL_Transient_N,0.7728928571428572,1,BR,Transient,N,2027,2,per_recording,False
+BR_NL_ND_N,0.8789160839160839,0,BR,ND,N,2027,2,per_recording,False
+LO_CC_0.18 LPS_N,0.9830208333333333,1,LO,0.18 LPS,N,2027,2,per_recording,False
+LO_CC_0.47 LPS_N,0.9765140845070422,1,LO,0.47 LPS,N,2027,2,per_recording,False
+LO_GL_0.47 LPS_N,0.9764685314685314,1,LO,0.47 LPS,N,2027,2,per_recording,False
+LO_GL_ND_N,0.9786713286713286,1,LO,ND,N,2027,2,per_recording,False
+BR_CC_ND_N,0.7473958333333334,1,BR,ND,N,2027,3,per_recording,False
+BR_CC_Transient_N,0.8014137931034483,1,BR,Transient,N,2027,3,per_recording,False
+BR_NL_0.47 LPS_N,0.8172183098591549,0,BR,0.47 LPS,N,2027,3,per_recording,False
+BR_OL_0.47 LPS_N,0.6956293706293706,1,BR,0.47 LPS,N,2027,3,per_recording,False
+BR_OL_ND_N,0.8384615384615385,1,BR,ND,N,2027,3,per_recording,False
+LO_NL_0.47 LPS_N,0.8365714285714286,0,LO,0.47 LPS,N,2027,3,per_recording,False
+LO_NL_ND_N,0.8742198581560283,0,LO,ND,N,2027,3,per_recording,False
+LO_NL_Transient_N,0.7775714285714286,0,LO,Transient,N,2027,3,per_recording,False
+BR_LC_0.47 LPS_N,0.708923611111111,1,BR,0.47 LPS,N,2027,4,per_recording,False
+BR_LC_Transient_N,0.8279370629370629,1,BR,Transient,N,2027,4,per_recording,False
+LO_GL_0.18 LPS_N,0.8508450704225352,1,LO,0.18 LPS,N,2027,4,per_recording,False
+LO_GL_Transient_N,0.8916312056737589,1,LO,Transient,N,2027,4,per_recording,False
+LO_LC_0.47 LPS_N,0.9758741258741259,1,LO,0.47 LPS,N,2027,4,per_recording,False
+LO_NL_0.18 LPS_N,0.7442657342657342,0,LO,0.18 LPS,N,2027,4,per_recording,False
+LO_OL_0.18 LPS_N,0.7910915492957746,1,LO,0.18 LPS,N,2027,4,per_recording,False
+LO_OL_0.47 LPS_N,0.6113028169014085,1,LO,0.47 LPS,N,2027,4,per_recording,False

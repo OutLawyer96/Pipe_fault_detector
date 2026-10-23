@@ -1,0 +1,30 @@
+# Local dataset: download from Mendeley; never publish raw recordings.
+data/
+
+# Python and local tooling
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+.env
+
+# Notebooks and editor state
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# Generated intermediate feature matrices and legacy model experiments
+reports/*_features.csv
+reports/node_features.csv
+reports/all_features.csv
+models/*.joblib
+models/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+

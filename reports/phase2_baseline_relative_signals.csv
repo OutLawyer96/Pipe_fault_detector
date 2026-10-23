@@ -1,0 +1,121 @@
+signal_id,score,leak,network,flow,noise,seed,fold,variant,edge
+BR_GL_0.18 LPS_N,1.0,1,BR,0.18 LPS,N,42,0,baseline_relative,False
+BR_NL_0.18 LPS_N,1.0,0,BR,0.18 LPS,N,42,0,baseline_relative,False
+BR_NL_Transient_N,1.0,0,BR,Transient,N,42,0,baseline_relative,False
+BR_OL_0.18 LPS_N,1.0,1,BR,0.18 LPS,N,42,0,baseline_relative,False
+BR_OL_Transient_N,1.0,1,BR,Transient,N,42,0,baseline_relative,False
+LO_GL_ND_N,1.0,1,LO,ND,N,42,0,baseline_relative,False
+LO_GL_Transient_N,0.9991489361702127,1,LO,Transient,N,42,0,baseline_relative,False
+LO_OL_0.47 LPS_N,0.9992957746478873,1,LO,0.47 LPS,N,42,0,baseline_relative,False
+BR_GL_ND_N,0.9987762237762237,1,BR,ND,N,42,1,baseline_relative,False
+BR_LC_0.18 LPS_N,0.9985185185185186,1,BR,0.18 LPS,N,42,1,baseline_relative,False
+BR_LC_0.47 LPS_N,0.9999652777777778,1,BR,0.47 LPS,N,42,1,baseline_relative,False
+BR_NL_0.47 LPS_N,1.0,0,BR,0.47 LPS,N,42,1,baseline_relative,False
+LO_GL_0.47 LPS_N,0.9993706293706294,1,LO,0.47 LPS,N,42,1,baseline_relative,False
+LO_LC_Transient_N,0.9992,1,LO,Transient,N,42,1,baseline_relative,False
+LO_NL_ND_N,0.9999290780141845,0,LO,ND,N,42,1,baseline_relative,False
+LO_OL_Transient_N,0.9993055555555556,1,LO,Transient,N,42,1,baseline_relative,False
+BR_CC_0.18 LPS_N,0.9996153846153846,1,BR,0.18 LPS,N,42,2,baseline_relative,False
+BR_CC_0.47 LPS_N,0.9998928571428572,1,BR,0.47 LPS,N,42,2,baseline_relative,False
+BR_GL_0.47 LPS_N,0.9998263888888889,1,BR,0.47 LPS,N,42,2,baseline_relative,False
+BR_LC_Transient_N,0.9996853146853147,1,BR,Transient,N,42,2,baseline_relative,False
+BR_OL_0.47 LPS_N,0.999895104895105,1,BR,0.47 LPS,N,42,2,baseline_relative,False
+LO_GL_0.18 LPS_N,0.9959154929577464,1,LO,0.18 LPS,N,42,2,baseline_relative,False
+LO_LC_0.47 LPS_N,1.0,1,LO,0.47 LPS,N,42,2,baseline_relative,False
+LO_NL_0.47 LPS_N,0.9999285714285715,0,LO,0.47 LPS,N,42,2,baseline_relative,False
+BR_CC_ND_N,1.0,1,BR,ND,N,42,3,baseline_relative,False
+BR_CC_Transient_N,0.9993448275862069,1,BR,Transient,N,42,3,baseline_relative,False
+LO_CC_0.47 LPS_N,0.9998591549295774,1,LO,0.47 LPS,N,42,3,baseline_relative,False
+LO_CC_Transient_N,1.0,1,LO,Transient,N,42,3,baseline_relative,False
+LO_LC_ND_N,0.9979225352112677,1,LO,ND,N,42,3,baseline_relative,False
+LO_NL_0.18 LPS_N,0.999965034965035,0,LO,0.18 LPS,N,42,3,baseline_relative,False
+LO_NL_Transient_N,1.0,0,LO,Transient,N,42,3,baseline_relative,False
+LO_OL_0.18 LPS_N,1.0,1,LO,0.18 LPS,N,42,3,baseline_relative,False
+BR_GL_Transient_N,0.99975,1,BR,Transient,N,42,4,baseline_relative,False
+BR_LC_ND_N,1.0,1,BR,ND,N,42,4,baseline_relative,False
+BR_NL_ND_N,1.0,0,BR,ND,N,42,4,baseline_relative,False
+BR_OL_ND_N,1.0,1,BR,ND,N,42,4,baseline_relative,False
+LO_CC_0.18 LPS_N,0.9993055555555556,1,LO,0.18 LPS,N,42,4,baseline_relative,False
+LO_CC_ND_N,0.9999295774647888,1,LO,ND,N,42,4,baseline_relative,False
+LO_LC_0.18 LPS_N,0.9989510489510489,1,LO,0.18 LPS,N,42,4,baseline_relative,False
+LO_OL_ND_N,0.9973776223776224,1,LO,ND,N,42,4,baseline_relative,False
+BR_CC_0.18 LPS_N,1.0,1,BR,0.18 LPS,N,1337,0,baseline_relative,False
+BR_GL_0.47 LPS_N,1.0,1,BR,0.47 LPS,N,1337,0,baseline_relative,False
+BR_NL_0.18 LPS_N,1.0,0,BR,0.18 LPS,N,1337,0,baseline_relative,False
+BR_NL_0.47 LPS_N,1.0,0,BR,0.47 LPS,N,1337,0,baseline_relative,False
+BR_OL_0.18 LPS_N,1.0,1,BR,0.18 LPS,N,1337,0,baseline_relative,False
+LO_GL_Transient_N,0.999822695035461,1,LO,Transient,N,1337,0,baseline_relative,False
+LO_OL_0.47 LPS_N,0.9995422535211268,1,LO,0.47 LPS,N,1337,0,baseline_relative,False
+LO_OL_ND_N,0.9986713286713287,1,LO,ND,N,1337,0,baseline_relative,False
+BR_CC_Transient_N,0.9992068965517241,1,BR,Transient,N,1337,1,baseline_relative,False
+BR_GL_0.18 LPS_N,0.9994366197183098,1,BR,0.18 LPS,N,1337,1,baseline_relative,False
+BR_GL_Transient_N,0.9995,1,BR,Transient,N,1337,1,baseline_relative,False
+BR_LC_ND_N,0.9997569444444445,1,BR,ND,N,1337,1,baseline_relative,False
+BR_OL_0.47 LPS_N,0.9998251748251747,1,BR,0.47 LPS,N,1337,1,baseline_relative,False
+BR_OL_Transient_N,0.998581081081081,1,BR,Transient,N,1337,1,baseline_relative,False
+LO_CC_0.47 LPS_N,0.9998943661971832,1,LO,0.47 LPS,N,1337,1,baseline_relative,False
+LO_NL_ND_N,0.9998936170212767,0,LO,ND,N,1337,1,baseline_relative,False
+BR_CC_ND_N,1.0,1,BR,ND,N,1337,2,baseline_relative,False
+BR_LC_Transient_N,1.0,1,BR,Transient,N,1337,2,baseline_relative,False
+BR_NL_ND_N,1.0,0,BR,ND,N,1337,2,baseline_relative,False
+BR_NL_Transient_N,1.0,0,BR,Transient,N,1337,2,baseline_relative,False
+LO_LC_0.47 LPS_N,1.0,1,LO,0.47 LPS,N,1337,2,baseline_relative,False
+LO_NL_0.18 LPS_N,1.0,0,LO,0.18 LPS,N,1337,2,baseline_relative,False
+LO_NL_0.47 LPS_N,1.0,0,LO,0.47 LPS,N,1337,2,baseline_relative,False
+LO_NL_Transient_N,1.0,0,LO,Transient,N,1337,2,baseline_relative,False
+BR_CC_0.47 LPS_N,0.9999285714285715,1,BR,0.47 LPS,N,1337,3,baseline_relative,False
+BR_GL_ND_N,0.9989510489510489,1,BR,ND,N,1337,3,baseline_relative,False
+LO_CC_ND_N,0.9995070422535212,1,LO,ND,N,1337,3,baseline_relative,False
+LO_GL_0.18 LPS_N,0.9948943661971832,1,LO,0.18 LPS,N,1337,3,baseline_relative,False
+LO_LC_ND_N,0.9989436619718309,1,LO,ND,N,1337,3,baseline_relative,False
+LO_LC_Transient_N,0.9998,1,LO,Transient,N,1337,3,baseline_relative,False
+LO_OL_0.18 LPS_N,0.9996478873239436,1,LO,0.18 LPS,N,1337,3,baseline_relative,False
+LO_OL_Transient_N,0.9990972222222223,1,LO,Transient,N,1337,3,baseline_relative,False
+BR_LC_0.18 LPS_N,0.9994814814814815,1,BR,0.18 LPS,N,1337,4,baseline_relative,False
+BR_LC_0.47 LPS_N,0.9973263888888889,1,BR,0.47 LPS,N,1337,4,baseline_relative,False
+BR_OL_ND_N,0.9990559440559441,1,BR,ND,N,1337,4,baseline_relative,False
+LO_CC_0.18 LPS_N,0.9995833333333333,1,LO,0.18 LPS,N,1337,4,baseline_relative,False
+LO_CC_Transient_N,0.999965034965035,1,LO,Transient,N,1337,4,baseline_relative,False
+LO_GL_0.47 LPS_N,0.9988461538461539,1,LO,0.47 LPS,N,1337,4,baseline_relative,False
+LO_GL_ND_N,0.9995804195804195,1,LO,ND,N,1337,4,baseline_relative,False
+LO_LC_0.18 LPS_N,0.9996503496503496,1,LO,0.18 LPS,N,1337,4,baseline_relative,False
+BR_CC_0.47 LPS_N,0.9998214285714285,1,BR,0.47 LPS,N,2027,0,baseline_relative,False
+BR_GL_0.47 LPS_N,0.9980902777777777,1,BR,0.47 LPS,N,2027,0,baseline_relative,False
+BR_GL_ND_N,0.9971328671328672,1,BR,ND,N,2027,0,baseline_relative,False
+BR_NL_Transient_N,1.0,0,BR,Transient,N,2027,0,baseline_relative,False
+BR_OL_Transient_N,1.0,1,BR,Transient,N,2027,0,baseline_relative,False
+LO_LC_ND_N,0.9995422535211268,1,LO,ND,N,2027,0,baseline_relative,False
+LO_OL_ND_N,0.9952097902097902,1,LO,ND,N,2027,0,baseline_relative,False
+LO_OL_Transient_N,0.9989583333333333,1,LO,Transient,N,2027,0,baseline_relative,False
+BR_LC_0.18 LPS_N,1.0,1,BR,0.18 LPS,N,2027,1,baseline_relative,False
+BR_LC_ND_N,1.0,1,BR,ND,N,2027,1,baseline_relative,False
+BR_NL_0.18 LPS_N,1.0,0,BR,0.18 LPS,N,2027,1,baseline_relative,False
+BR_OL_0.18 LPS_N,1.0,1,BR,0.18 LPS,N,2027,1,baseline_relative,False
+LO_CC_ND_N,0.9999647887323944,1,LO,ND,N,2027,1,baseline_relative,False
+LO_CC_Transient_N,0.999895104895105,1,LO,Transient,N,2027,1,baseline_relative,False
+LO_LC_0.18 LPS_N,0.999965034965035,1,LO,0.18 LPS,N,2027,1,baseline_relative,False
+LO_LC_Transient_N,0.9994333333333333,1,LO,Transient,N,2027,1,baseline_relative,False
+BR_CC_0.18 LPS_N,0.9994055944055944,1,BR,0.18 LPS,N,2027,2,baseline_relative,False
+BR_GL_0.18 LPS_N,0.9996830985915494,1,BR,0.18 LPS,N,2027,2,baseline_relative,False
+BR_GL_Transient_N,0.9997857142857143,1,BR,Transient,N,2027,2,baseline_relative,False
+BR_NL_ND_N,1.0,0,BR,ND,N,2027,2,baseline_relative,False
+LO_CC_0.18 LPS_N,0.9997222222222223,1,LO,0.18 LPS,N,2027,2,baseline_relative,False
+LO_CC_0.47 LPS_N,0.9999295774647888,1,LO,0.47 LPS,N,2027,2,baseline_relative,False
+LO_GL_0.47 LPS_N,0.9993006993006993,1,LO,0.47 LPS,N,2027,2,baseline_relative,False
+LO_GL_ND_N,0.9999300699300699,1,LO,ND,N,2027,2,baseline_relative,False
+BR_CC_ND_N,1.0,1,BR,ND,N,2027,3,baseline_relative,False
+BR_CC_Transient_N,0.9989655172413793,1,BR,Transient,N,2027,3,baseline_relative,False
+BR_NL_0.47 LPS_N,1.0,0,BR,0.47 LPS,N,2027,3,baseline_relative,False
+BR_OL_0.47 LPS_N,1.0,1,BR,0.47 LPS,N,2027,3,baseline_relative,False
+BR_OL_ND_N,0.9995804195804195,1,BR,ND,N,2027,3,baseline_relative,False
+LO_NL_0.47 LPS_N,1.0,0,LO,0.47 LPS,N,2027,3,baseline_relative,False
+LO_NL_ND_N,1.0,0,LO,ND,N,2027,3,baseline_relative,False
+LO_NL_Transient_N,1.0,0,LO,Transient,N,2027,3,baseline_relative,False
+BR_LC_0.47 LPS_N,0.9968055555555555,1,BR,0.47 LPS,N,2027,4,baseline_relative,False
+BR_LC_Transient_N,0.9996153846153846,1,BR,Transient,N,2027,4,baseline_relative,False
+LO_GL_0.18 LPS_N,1.0,1,LO,0.18 LPS,N,2027,4,baseline_relative,False
+LO_GL_Transient_N,1.0,1,LO,Transient,N,2027,4,baseline_relative,False
+LO_LC_0.47 LPS_N,0.9997902097902098,1,LO,0.47 LPS,N,2027,4,baseline_relative,False
+LO_NL_0.18 LPS_N,0.999965034965035,0,LO,0.18 LPS,N,2027,4,baseline_relative,False
+LO_OL_0.18 LPS_N,1.0,1,LO,0.18 LPS,N,2027,4,baseline_relative,False
+LO_OL_0.47 LPS_N,0.9985563380281689,1,LO,0.47 LPS,N,2027,4,baseline_relative,False

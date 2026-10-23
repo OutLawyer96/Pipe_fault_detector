@@ -1,0 +1,114 @@
+{
+  "feature_names": [
+    "A1_mean",
+    "A1_std",
+    "A1_rms",
+    "A1_low",
+    "A1_acoustic",
+    "A1_centroid",
+    "A2_mean",
+    "A2_std",
+    "A2_rms",
+    "A2_low",
+    "A2_acoustic",
+    "A2_centroid",
+    "P1_mean",
+    "P1_std",
+    "P1_rms",
+    "P1_low",
+    "P1_acoustic",
+    "P1_centroid",
+    "P2_mean",
+    "P2_std",
+    "P2_rms",
+    "P2_low",
+    "P2_acoustic",
+    "P2_centroid",
+    "A1_A2_std_ratio",
+    "P1_P2_std_ratio"
+  ],
+  "preprocessing": {
+    "accelerometer_sampling_hz": 8000,
+    "pressure_sampling_hz": 860,
+    "hydrophone_sampling_hz": 8000,
+    "anti_alias_filter": "scipy.signal.resample_poly",
+    "window_s": 0.25,
+    "overlap": 0,
+    "band_limits_hz": {
+      "low": [
+        0,
+        500
+      ],
+      "acoustic": [
+        500,
+        3000
+      ]
+    },
+    "variant": "raw",
+    "sensor_configuration": "accelerometer+pressure"
+  },
+  "label_map": {
+    "0": "No-leak",
+    "1": "Leak"
+  },
+  "decision_threshold": 0.69,
+  "doi": "10.17632/tbrnp6vrnj.1",
+  "seed": 42,
+  "python": "3.11.5",
+  "numpy": "2.2.4",
+  "scipy": "1.15.2",
+  "sklearn": "1.6.1",
+  "model_size_kb": 3450.0087890625,
+  "inference_ms_per_window": 48.217843999999786,
+  "edge_inference_ms_per_window": 18.099859200000537,
+  "cv_signal_metrics": {
+    "accuracy": 0.875,
+    "balanced_accuracy": 0.9079365079365079,
+    "precision": 0.9583333333333334,
+    "recall": 0.8992063492063491,
+    "f1": 0.9098989898989899,
+    "roc_auc": 0.989010989010989,
+    "pr_auc": 0.9988095238095238,
+    "false_alarm_rate_nl": 0.07692307692307693
+  },
+  "final_fit_metrics": {
+    "accuracy": 0.85,
+    "balanced_accuracy": 0.625,
+    "precision": 0.8421052631578947,
+    "recall": 1.0,
+    "f1": 0.9142857142857143,
+    "roc_auc": 0.98046875,
+    "pr_auc": 0.995777027027027,
+    "false_alarm_rate_nl": 0.75
+  },
+  "signal_bootstrap_95_ci": {
+    "precision": [
+      1.0,
+      1.0
+    ],
+    "recall": [
+      0.84375,
+      1.0
+    ],
+    "f1": [
+      0.9152542372881356,
+      1.0
+    ],
+    "balanced_accuracy": [
+      0.921875,
+      1.0
+    ],
+    "roc_auc": [
+      0.9314285714285714,
+      1.0
+    ],
+    "pr_auc": [
+      0.9841260822510822,
+      1.0
+    ],
+    "false_alarm_rate_nl": [
+      0.0,
+      0.0
+    ]
+  }
+}
